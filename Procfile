@@ -1,1 +1,1 @@
-web: python3 tolikbot123.py
+web: python3 Dina111.py
